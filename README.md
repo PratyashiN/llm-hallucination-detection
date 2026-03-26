@@ -137,14 +137,14 @@ Through this project, the following key concepts were explored:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 2. Open the notebook
-3. Open the notebook:
+3. Run all cells sequentially
 
 ##  Conclusion
 
